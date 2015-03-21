@@ -3,7 +3,7 @@ var Disruption = React.createClass({
     return (
       <div className="disruption">
         <h2 className="disruptionText">
-          {this.props.text}
+          {this.props.station} - {this.props.status}
         </h2>
         <span />
       </div>
@@ -17,8 +17,16 @@ var DisruptionBox = React.createClass({
       url: this.props.url,
       dataType: 'xml',
       method: 'GET',
-      success: function(data) {
-        this.setState({data: data});
+      success: function(xmldoc) {
+        var disruptions = $('StationStatus', xmldoc).map(function() {
+          return {
+            station: $('Station', this).attr('Name'),
+            status: $('Status', this).attr('Description'),
+            active: $('Status', this).attr('IsActive') == 'true',
+            statusType: $('StatusType', this).attr('Description')
+          }
+        }).get();
+        this.setState({data: disruptions});
       }.bind(this),
       error: function(xhr, status, err) {
         console.error(this.props.url, status, err.toString());
@@ -46,9 +54,7 @@ var DisruptionList = React.createClass({
   render: function() {
     var disruptionNodes = this.props.data.map(function(disruption, index) {
       return (
-        <Disruption station={disruption.station} key={index}>
-          {disruption.text}
-        </Disruption>
+        <Disruption station={disruption.station} key={index} status={disruption.status} />
       );
     });
     return (
