@@ -66,6 +66,6 @@ var DisruptionList = React.createClass({
 });
 
 React.render(
-  <DisruptionBox url='http://cors-io.herokuapp.com/cloud.tfl.gov.uk/TrackerNet/stationStatus' pollInterval={20000} />,
+  <DisruptionBox url='http://cors-io.herokuapp.com/cloud.tfl.gov.uk/TrackerNet/stationStatus/incidentsonly' pollInterval={30000} />,
   document.getElementById('content')
 );

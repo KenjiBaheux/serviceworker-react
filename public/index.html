@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello React</title>
+    <title>London Underground Status</title>
     <!-- Not present in the tutorial. Just for basic styling. -->
     <link rel="stylesheet" href="css/base.css" />
     <script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.js'></script>
@@ -11,8 +11,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>
   <body>
-    <div id="content"></div>
+    <h1>Tube Status</h1>
     <div id="map"></div>
+    <div id="content"></div>
     <script type="text/javascript">
       L.mapbox.accessToken = 'pk.eyJ1IjoibGV3aXNjb3dwZXIiLCJhIjoiaGl1T2hNdyJ9.laORI6ZYpiizWtPfceRMfQ';
       var map = L.mapbox.map('map', 'lewiscowper.lgjh3npk').setView([51.5182, -0.1368], 13);
