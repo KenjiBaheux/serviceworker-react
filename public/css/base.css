@@ -1218,3 +1218,17 @@ ul {
     transform: rotate(0deg);
   }
 }
+
+@media (max-width: 700px) {
+  #map {
+    display: none;
+  }
+
+  .lineDisruptionBox {
+    width: 100%;
+  }
+
+    .stationDisruptionBox {
+    width: 100%;
+  }
+}
