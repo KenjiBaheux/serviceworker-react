@@ -8,9 +8,11 @@
     "express": "^4.4.5"
   },
   "devDependencies": {
+    "gh-pages-deploy": "^0.3.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages-deploy",
     "start": "node server.js"
   },
   "repository": {
@@ -19,11 +21,15 @@
   },
   "keywords": [
     "react",
-    "serviceworker",
+    "serviceworker"
   ],
   "author": "lewiscowper",
   "bugs": {
     "url": "https://github.com/lewiscowper/serviceworker-react/issues"
   },
-  "homepage": "https://github.com/lewiscowper/serviceworker-react"
+  "homepage": "https://github.com/lewiscowper/serviceworker-react",
+  "gh-pages-deploy": {
+    "noprompt": "true",
+    "staticpath": "public"
+  }
 }
