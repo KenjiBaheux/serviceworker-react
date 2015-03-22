@@ -21,9 +21,8 @@ var LineDisruption = React.createClass({
         <h3 className="disruptionText">
           {this.props.line} - {this.props.status}
         </h3>
-        <p>
-          From {this.props.stationFrom} To {this.props.stationTo}
-        </p>
+        {this.props.stationFrom &&
+          <p>From {this.props.stationFrom} To {this.props.stationTo}</p>}
         <span />
       </div>
     );
