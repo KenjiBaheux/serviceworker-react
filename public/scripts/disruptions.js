@@ -142,10 +142,10 @@ var LineDisruptionList = React.createClass({
 });
 
 React.render(
-  <LineDisruptionBox url='http://cors-io.herokuapp.com/cloud.tfl.gov.uk/TrackerNet/lineStatus/incidentsonly' pollInterval={30000} />,
+  <LineDisruptionBox url='https://cors-anywhere.herokuapp.com/cloud.tfl.gov.uk/TrackerNet/lineStatus/incidentsonly' pollInterval={30000} />,
   document.getElementById('content')
 );
 React.render(
-  <StationDisruptionBox url='http://cors-io.herokuapp.com/cloud.tfl.gov.uk/TrackerNet/stationStatus/incidentsonly' pollInterval={30000} />,
+  <StationDisruptionBox url='https://cors-anywhere.herokuapp.com/cloud.tfl.gov.uk/TrackerNet/stationStatus/incidentsonly' pollInterval={30000} />,
   document.getElementById('content2')
 );
