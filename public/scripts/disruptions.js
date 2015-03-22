@@ -1,23 +1,29 @@
-var stationDisruption = React.createClass({
+var StationDisruption = React.createClass({
   render: function () {
     return (
       <div className="disruption">
-        <h2 className="disruptionText">
-          {this.props.station} - {this.props.status}
-        </h2>
+        <h3 className="disruptionText">
+          {this.props.station}
+        </h3>
+        <p>
+          {this.props.status}
+        </p>
         <span />
       </div>
     );
   }
 });
 
-var lineDisruption = React.createClass({
+var LineDisruption = React.createClass({
   render: function () {
     return (
       <div className="disruption">
-        <h2 className="disruptionText">
-          {this.props.stationFrom} - {this.props.stationTo} - {this.props.status}
-        </h2>
+        <h3 className="disruptionText">
+          {this.props.line} - {this.props.status}
+        </h3>
+        <p>
+          From {this.props.stationFrom} To {this.props.stationTo}
+        </p>
         <span />
       </div>
     );
@@ -35,6 +41,7 @@ var LineDisruptionBox = React.createClass({
           return {
             stationTo: $('StationTo', this).attr('Name'),
             stationFrom: $('StationFrom', this).attr('Name'),
+            line: $('Line', this).attr('Name'),
             status: $('Status', this).attr('Description'),
             active: $('Status', this).attr('IsActive') == 'true',
             statusType: $('StatusType', this).attr('Description')
@@ -58,7 +65,7 @@ var LineDisruptionBox = React.createClass({
     return (
       <div className="lineDisruptionBox">
         <h1>Line Disruptions</h1>
-        <lineDisruptionList data={this.state.data} />
+        <LineDisruptionList data={this.state.data} />
       </div>
     );
   }
@@ -73,6 +80,7 @@ var StationDisruptionBox = React.createClass({
       success: function(xmldoc) {
         var stationDisruptions = $('StationStatus', xmldoc).map(function() {
           return {
+            details: $('StationStatus', this).attr('StatusDetails'),
             station: $('Station', this).attr('Name'),
             status: $('Status', this).attr('Description'),
             active: $('Status', this).attr('IsActive') == 'true',
@@ -97,17 +105,17 @@ var StationDisruptionBox = React.createClass({
     return (
       <div className="stationDisruptionBox">
         <h1>Station Disruptions</h1>
-        <stationDisruptionList data={this.state.data} />
+        <StationDisruptionList data={this.state.data} />
       </div>
     );
   }
 });
 
-var stationDisruptionList = React.createClass({
+var StationDisruptionList = React.createClass({
   render: function() {
     var disruptionNodes = this.props.data.map(function(disruption, index) {
       return (
-        <stationDisruption station={disruption.station} key={index} status={disruption.status} />
+        <StationDisruption station={disruption.station} key={index} status={disruption.status} />
       );
     });
     return (
@@ -118,11 +126,11 @@ var stationDisruptionList = React.createClass({
   }
 });
 
-var lineDisruptionList = React.createClass({
+var LineDisruptionList = React.createClass({
   render: function() {
     var disruptionNodes = this.props.data.map(function(disruption, index) {
       return (
-        <lineDisruption stationTo={disruption.stationTo} stationFrom={disruption.stationFrom} key={index} status={disruption.status} />
+        <LineDisruption stationTo={disruption.stationTo} stationFrom={disruption.stationFrom} key={index} line={disruption.line} status={disruption.status} />
       );
     });
     return (

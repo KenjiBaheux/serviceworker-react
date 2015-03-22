@@ -62,9 +62,20 @@ ul {
 }
 
 #map {
-  height: 500px;
+  height: 90vh;
+  margin-bottom: 5%;
 }
 
 .disruptionList {
   font-size: 0.5em;
+}
+
+.lineDisruptionBox {
+  float: left;
+  width: 50%;
+}
+
+.stationDisruptionBox {
+  float: right;
+  width: 50%;
 }

@@ -29,7 +29,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tAldgate Station\n\t\t\t",
+                "name": "Aldgate Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Aldgate Station, London Underground Ltd., Aldgate High St, London, EC3N 1AH"
@@ -46,7 +46,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tAldgate East Station\n\t\t\t",
+                "name": "Aldgate East Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Aldgate East Station, London Underground Ltd., Whitechapel High St, London, E1 7PT"
@@ -63,7 +63,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tAlperton Station\n\t\t\t",
+                "name": "Alperton Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Alperton Station, London Underground Ltd., Ealing Rd, Wembley, Middlesex, HA0 4LL"
@@ -80,7 +80,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tAmersham Station\n\t\t\t",
+                "name": "Amersham Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Amersham Station, Stn Approach, Amersham, Bucks HP6 5AZ"
@@ -97,7 +97,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tAngel Station\n\t\t\t",
+                "name": "Angel Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Angel Station, London Underground Ltd., City Rd, London, EC1V 1NE"
@@ -114,7 +114,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tArchway Station\n\t\t\t",
+                "name": "Archway Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Archway Station, London Underground Ltd., Junction Rd, London, N19 5RQ"
@@ -131,7 +131,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tArnos Grove Station\n\t\t\t",
+                "name": "Arnos Grove Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Arnos Grove Station, London Underground Ltd., Bowes Rd, London, N11 1AN"
@@ -148,7 +148,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tArsenal Station\n\t\t\t",
+                "name": "Arsenal Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Arsenal Station, London Underground Ltd., Highbury Hill, London, N5 1LP"
@@ -165,7 +165,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBaker Street Station\n\t\t\t",
+                "name": "Baker Street Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Baker Street Station Marylebone Rd, London, NW1"
@@ -182,7 +182,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBalham Station\n\t\t\t",
+                "name": "Balham Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Balham Underground Station, London Underground Ltd., Balham High Rd, London, SW12 9BW"
@@ -199,7 +199,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBank Station\n\t\t\t",
+                "name": "Bank Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Bank/Monument Complex, London Underground Ltd., Princes St, London, EC3V 3LA"
@@ -216,7 +216,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBarbican Station\n\t\t\t",
+                "name": "Barbican Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Barbican Station, London Underground Ltd., Aldersgate St, London, EC1A 4JA"
@@ -233,7 +233,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBarking Station\n\t\t\t",
+                "name": "Barking Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Barking Station BR Station Parade, Longbridge Rd, Barking, Essex, IG11 8TU"
@@ -250,7 +250,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBarkingside Station\n\t\t\t",
+                "name": "Barkingside Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Barkingside Station, London Underground Ltd., Stn Rd, Barkingside, Milford, Essex, IG6 1NB"
@@ -267,7 +267,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBarons Court Station\n\t\t\t",
+                "name": "Barons Court Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Barons Court Station, London Underground Ltd., Pallister Rd, London, W14"
@@ -284,7 +284,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBayswater Station\n\t\t\t",
+                "name": "Bayswater Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Bayswater Station, London Underground Ltd., Queensway, London, W2 4QH"
@@ -301,7 +301,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBecontree Station\n\t\t\t",
+                "name": "Becontree Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Becontree Station, London Underground Ltd., Gale St, Dagenham, Essex, RM9 4TP"
@@ -318,7 +318,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBelsize Park Station\n\t\t\t",
+                "name": "Belsize Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Belsize Park Station, London Underground Ltd., Haverstock Hill, London, NW3 2AL"
@@ -335,7 +335,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBermondsey Station\n\t\t\t",
+                "name": "Bermondsey Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Bermondsey Station, London Underground Ltd., 142 - 154 Jamaica Rd, London, SE16 4RX"
@@ -352,7 +352,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBethnal Green Station\n\t\t\t",
+                "name": "Bethnal Green Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Bethnal Green Underground Station, London Underground Ltd., Cambridge Heath Rd, London, E2 0ET"
@@ -369,7 +369,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBlackfriars Station\n\t\t\t",
+                "name": "Blackfriars Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Blackfriars Underground Station, London Underground Ltd., 179 Queen Victoria St, London, EC4V 4DD"
@@ -386,7 +386,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBlackhorse Road Station\n\t\t\t",
+                "name": "Blackhorse Road Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Blackhorse Road Underground Station, London Underground Ltd., Blackhorse Rd, London, E17 6ND"
@@ -403,7 +403,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBond Street Station\n\t\t\t",
+                "name": "Bond Street Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Bond Street Station, London Underground Ltd., Oxford St, London, W1R 1FE"
@@ -420,7 +420,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBorough Station\n\t\t\t",
+                "name": "Borough Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Borough Station, London Underground Ltd., Borough High St, London, SE1 1JX"
@@ -437,7 +437,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBoston Manor Station\n\t\t\t",
+                "name": "Boston Manor Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Boston Manor Station, London Underground Ltd., Boston Manor Rd, Brentford, Middx, TW8 9LQ"
@@ -454,7 +454,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBounds Green Station\n\t\t\t",
+                "name": "Bounds Green Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Bounds Green Station, London Underground Ltd., Bounds Green Rd, London, N11 2EU"
@@ -471,7 +471,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBow Road Station\n\t\t\t",
+                "name": "Bow Road Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Bow Road Station, London Underground Ltd., Bow Road, London, E3 4DH"
@@ -488,7 +488,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBrent Cross Station\n\t\t\t",
+                "name": "Brent Cross Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Brent Cross Station, London Underground Ltd., Highfield Avenue, London, NW11 9UA"
@@ -505,7 +505,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBrixton Station\n\t\t\t",
+                "name": "Brixton Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Brixton Underground Station, London Underground Ltd., Brixton Rd, London, SW9 8HE"
@@ -522,7 +522,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBuckhurst Hill Station\n\t\t\t",
+                "name": "Buckhurst Hill Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Buckhurst Hill Station, London Underground Ltd., Victoria Rd, Buckhurst Hill, Essex, IG9 5ET"
@@ -539,7 +539,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBurnt Oak Station\n\t\t\t",
+                "name": "Burnt Oak Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Burnt Oak Station, London Underground Ltd., Watling Avenue, Edgware, Middx, HA8 0LA"
@@ -556,7 +556,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tCaledonian Road Station\n\t\t\t",
+                "name": "Caledonian Road Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Caledonian Road Underground Station, London Underground Ltd., Caledonian Rd, London, N7 9BA"
@@ -573,7 +573,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tCamden Town Station\n\t\t\t",
+                "name": "Camden Town Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Camden Town Station, London Underground Ltd., Camden High St, London, NW1 8NH"
@@ -590,7 +590,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tCanada Water Station\n\t\t\t",
+                "name": "Canada Water Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Canada Water Station, London Underground Ltd., Deal Porter Way, Surrey Quays, London, SE16"
@@ -607,7 +607,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tCanary Wharf Station\n\t\t\t",
+                "name": "Canary Wharf Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Canary Wharf Station, London Underground Ltd., Heron Quays Road, Canary Wharf, London, E14 4HJ"
@@ -624,7 +624,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tCanning Town Station\n\t\t\t",
+                "name": "Canning Town Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Canning Town Station, London Underground Ltd., Silvertown Way, Canning Town, London, E16 1DQ"
@@ -641,7 +641,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tCannon Street Station\n\t\t\t",
+                "name": "Cannon Street Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Cannon Street Underground Station, London Underground Ltd., Cannon St, London, EC4N 6AP"
@@ -658,7 +658,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tCanons Park Station\n\t\t\t",
+                "name": "Canons Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Canons Park Station, London Underground Ltd., Whitchurch Lane, Edgware, Middx, HA8 6RN"
@@ -675,7 +675,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tChalfont & Latimer Station\n\t\t\t",
+                "name": "Chalfont & Latimer Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Chalfont & Latimer Station, London Underground Ltd., Station Approach, Little Chalfont, Amersham, Bucks, HP7 9PR"
@@ -692,7 +692,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tChalk Farm Station\n\t\t\t",
+                "name": "Chalk Farm Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Chalk Farm Station, London Underground Ltd., Adelaide Rd, London, NW3 2BP"
@@ -709,7 +709,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tChancery Lane Station\n\t\t\t",
+                "name": "Chancery Lane Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Chancery Lane Station, London Underground Ltd., High Holborn, London, WC1V 6DR"
@@ -726,7 +726,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tCharing Cross Station\n\t\t\t",
+                "name": "Charing Cross Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Charing Cross Underground Station, London Underground Ltd., Trafalgar Square, London, WC2N 5DR"
@@ -743,7 +743,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tChesham Station\n\t\t\t",
+                "name": "Chesham Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Chesham Station, London Underground Ltd., Station Approach, Chesham, Bucks, HP5 1DH"
@@ -760,7 +760,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tChigwell Station\n\t\t\t",
+                "name": "Chigwell Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Chigwell Station, London Underground Ltd., Station Rd, Chigwell, Essex, IG7 6NT"
@@ -777,7 +777,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tChiswick Park Station\n\t\t\t",
+                "name": "Chiswick Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Chiswick Park Station, London Underground Ltd., Bollo Lane, London, W4 5NE"
@@ -794,7 +794,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tChorleywood Station\n\t\t\t",
+                "name": "Chorleywood Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Chorleywood Station, London Underground Ltd., Station Approach, Chorleywood, Rickmansworth, Herts WD3 5ND"
@@ -811,7 +811,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tClapham Common Station\n\t\t\t",
+                "name": "Clapham Common Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Clapham Common Station, London Underground Ltd., The Pavement, London, SW4 7AJ"
@@ -828,7 +828,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tClapham North Station\n\t\t\t",
+                "name": "Clapham North Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Clapham North Station, London Underground Ltd., Clapham High St, London, SW4 7TS"
@@ -845,7 +845,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tClapham South Station\n\t\t\t",
+                "name": "Clapham South Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Clapham South Station, London Underground Ltd., Balham Hill, London, SW12 9DU"
@@ -862,7 +862,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tCockfosters Station\n\t\t\t",
+                "name": "Cockfosters Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Cockfosters Station, London Underground Ltd., Cockfosters Rd, Barnet, Herts, EN4 0DZ"
@@ -879,7 +879,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tColindale Station\n\t\t\t",
+                "name": "Colindale Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Colindale Station, London Underground Ltd., Colindale Avenue, London, NW9 5HR"
@@ -896,7 +896,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tColliers Wood Station\n\t\t\t",
+                "name": "Colliers Wood Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Colliers Wood Station, London Underground Ltd., Colliers Wood High St, London, SW19 2HR"
@@ -913,7 +913,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tCovent Garden Station\n\t\t\t",
+                "name": "Covent Garden Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Covent Garden Station, London Underground Ltd., Long Acre, London, WC2E 9JT"
@@ -930,7 +930,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tCroxley Station\n\t\t\t",
+                "name": "Croxley Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Croxley Station, London Underground Ltd., Watford Road, Rickmansworth, Herts, WD3 3DY"
@@ -947,7 +947,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tDagenham East Station\n\t\t\t",
+                "name": "Dagenham East Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Dagenham East Station, London Underground Ltd., North Rainham Rd, Dagenham, Essex, RM10 8AA"
@@ -964,7 +964,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tDagenham Heathway Station\n\t\t\t",
+                "name": "Dagenham Heathway Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Dagenham Heathway Station, London Underground Ltd., Heathway, Dagenham, Essex, RM9 5AN"
@@ -981,7 +981,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tDebden Station\n\t\t\t",
+                "name": "Debden Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Debden Station, London Underground Ltd., Chigwell Lane, Loughton, Essex, IG10 3TG"
@@ -998,7 +998,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tDollis Hill Station\n\t\t\t",
+                "name": "Dollis Hill Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Dollis Hill Station, London Underground Ltd., Hamilton Rd, London, NW10 5NB"
@@ -1015,7 +1015,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tEaling Broadway Station\n\t\t\t",
+                "name": "Ealing Broadway Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Ealing Broadway Station, The Broadway, London, W5 2NU"
@@ -1032,7 +1032,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tEaling Common Station\n\t\t\t",
+                "name": "Ealing Common Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Ealing Common Station, London Underground Ltd., Uxbridge Rd, London, W5 3LD"
@@ -1049,7 +1049,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tEarl's Court Station\n\t\t\t",
+                "name": "Earl's Court Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Earl's Court Station, London Underground Ltd., Earl's Court Rd, London, SW5 9QA"
@@ -1066,7 +1066,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tEast Acton Station\n\t\t\t",
+                "name": "East Acton Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "East Acton Station, London Underground Ltd., Erconwald St, London, W12 0BP"
@@ -1083,7 +1083,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tEast Finchley Station\n\t\t\t",
+                "name": "East Finchley Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "East Finchley Station, London Underground Ltd., High Rd, London, N2 0NW"
@@ -1100,7 +1100,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tEast Ham Station\n\t\t\t",
+                "name": "East Ham Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "East Ham Station, London Underground Ltd., High Street North, London, E6 2JA"
@@ -1117,7 +1117,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tEast Putney Station\n\t\t\t",
+                "name": "East Putney Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "East Putney Station, Upper Richmond Rd, London, SW15"
@@ -1134,7 +1134,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tEastcote Station\n\t\t\t",
+                "name": "Eastcote Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Eastcote Station, London Underground Ltd., Field End Rd, Ruislip, Middx, HA5 1QZ"
@@ -1151,7 +1151,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tEdgware Station\n\t\t\t",
+                "name": "Edgware Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Edgware Station, London Underground Ltd., Station Rd, Edgware, Middx, HA8 7AW"
@@ -1168,7 +1168,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tElephant & Castle Station\n\t\t\t",
+                "name": "Elephant & Castle Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Elephant & Castle Underground Station, London Underground Ltd., London Rd, London, SE1 6LW"
@@ -1185,7 +1185,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tElm Park Station\n\t\t\t",
+                "name": "Elm Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Elm Park Station, London Underground Ltd., The Broadway, Hornchurch, Essex, RM12 4RW"
@@ -1202,7 +1202,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tEmbankment Station\n\t\t\t",
+                "name": "Embankment Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Embankment Station, London Underground Ltd., Villiers St, London, WC2N 6NS"
@@ -1219,7 +1219,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tEpping Station\n\t\t\t",
+                "name": "Epping Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Epping Station, London Underground Ltd., Station Rd, Epping, Essex, CM16 4HW"
@@ -1236,7 +1236,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tEuston Station\n\t\t\t",
+                "name": "Euston Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Euston Underground Station, London Underground Ltd., Eversholt St, London, NW1 2DU"
@@ -1253,7 +1253,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tEuston Square Station\n\t\t\t",
+                "name": "Euston Square Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Euston Square Station, London Underground Ltd., Euston Rd, London, NW1 2BN"
@@ -1270,7 +1270,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tFairlop Station\n\t\t\t",
+                "name": "Fairlop Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Fairlop Station, London Underground Ltd., Forest Rd, Ilford, Essex, IG6 3HD"
@@ -1287,7 +1287,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tFarringdon Station\n\t\t\t",
+                "name": "Farringdon Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Farringdon Station, London Underground Ltd., Cowcross St, London, EC1M 6BY"
@@ -1304,7 +1304,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tFinchley Central Station\n\t\t\t",
+                "name": "Finchley Central Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Finchley Central Station, London Underground Ltd., Regents Park Road, London, N3 2RY"
@@ -1321,7 +1321,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tFinchley Road Station\n\t\t\t",
+                "name": "Finchley Road Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Finchley Road Underground Station, London Underground Ltd., Finchley Road, London, NW3 6OP"
@@ -1338,7 +1338,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tFinsbury Park Station\n\t\t\t",
+                "name": "Finsbury Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Finsbury Park Underground Station, London Underground Ltd., Wells Terrace, London, N4 3JU"
@@ -1355,7 +1355,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tFulham Broadway Station\n\t\t\t",
+                "name": "Fulham Broadway Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Fulham Broadway Station, London Underground Ltd., Fulham Broadway, London, SW6 1BY"
@@ -1372,7 +1372,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tGants Hill Station\n\t\t\t",
+                "name": "Gants Hill Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Gants Hill Station, London Underground Ltd., Cranbrook Rd, Ilford, Essex, IG2 6UD"
@@ -1389,7 +1389,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tGloucester Road Station\n\t\t\t",
+                "name": "Gloucester Road Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Gloucester Road Station, London Underground Ltd., Gloucester Rd, London, SW7 4SF"
@@ -1406,7 +1406,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tGolders Green Station\n\t\t\t",
+                "name": "Golders Green Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Golders Green Station, London Underground Ltd., North End Rd, London, NW11 7RN"
@@ -1423,7 +1423,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tGoldhawk Road Station\n\t\t\t",
+                "name": "Goldhawk Road Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Goldhawk Road Station, London Underground Ltd., Goldhawk Rd, London, W12 8EG"
@@ -1440,7 +1440,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tGoodge Street Station\n\t\t\t",
+                "name": "Goodge Street Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Goodge Street Station, London Underground Ltd., 75 Tottenham Court Rd, London, W1P 9PA"
@@ -1457,7 +1457,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tGrange Hill Station\n\t\t\t",
+                "name": "Grange Hill Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Grange Hill Station, London Underground Ltd., Manor Rd, Chigwell, Essex IG7 5QB"
@@ -1474,7 +1474,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tGreat Portland Street Station\n\t\t\t",
+                "name": "Great Portland Street Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Great Portland Street Station, London Underground Ltd., Euston Rd, London, NW1"
@@ -1491,7 +1491,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tGreen Park Station\n\t\t\t",
+                "name": "Green Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Green Park Station, London Underground Ltd., Piccadilly, London, W1V 9HG"
@@ -1508,7 +1508,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tGreenford Station\n\t\t\t",
+                "name": "Greenford Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Greenford Station, London Underground Ltd., Oldfield Lane, Greenford, Middx, UB6 8PX"
@@ -1525,7 +1525,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHainault Station\n\t\t\t",
+                "name": "Hainault Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Hainault Station, London Underground Ltd., New North Rd, Ilford, Essex, IG6 3BD"
@@ -1542,7 +1542,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHampstead Station\n\t\t\t",
+                "name": "Hampstead Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Hampstead Station, London Underground Ltd., Hampstead High St, London, NW3 1QG"
@@ -1559,7 +1559,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHanger Lane Station\n\t\t\t",
+                "name": "Hanger Lane Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Hanger Lane Station, London Underground Ltd., Hanger Lane, London, W5 1DL"
@@ -1576,7 +1576,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHatton Cross Station\n\t\t\t",
+                "name": "Hatton Cross Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Hatton Cross Station, London Underground Ltd., Great South West Rd, Feltham, Middx,  "
@@ -1593,7 +1593,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHeathrow Terminal 4 Station\n\t\t\t",
+                "name": "Heathrow Terminal 4 Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Heathrow T4 Station, London Underground Ltd., Hthrw Airport complex, Trmnl 4, Hounslow, Middx"
@@ -1610,7 +1610,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHendon Central Station\n\t\t\t",
+                "name": "Hendon Central Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Hendon Central Station, London Underground Ltd., Queens Rd, London, NW4 3AS"
@@ -1627,7 +1627,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHigh Barnet Station\n\t\t\t",
+                "name": "High Barnet Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "High Barnet Station, London Underground Ltd., Barnet Hill, Barnet, Herts, EN5 5RP"
@@ -1644,7 +1644,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHigh Street Kensington Station\n\t\t\t",
+                "name": "High Street Kensington Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "High Street Kensington Station, London Underground Ltd., Kensington High St, London, W8 5SA"
@@ -1661,7 +1661,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHighbury & Islington Station\n\t\t\t",
+                "name": "Highbury & Islington Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Highbury & Islington Underground Station, London Underground Ltd., Holloway Rd, London, N5 1RA"
@@ -1678,7 +1678,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHighgate Station\n\t\t\t",
+                "name": "Highgate Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Highgate Station, London Underground Ltd., Archway Rd, London, N6"
@@ -1695,7 +1695,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHillingdon Station\n\t\t\t",
+                "name": "Hillingdon Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Hillingdon Station, London Underground Ltd., Long Lane, Hillingdon, Uxbridge, Middlesex, UB10 9NR"
@@ -1712,7 +1712,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHolborn Station\n\t\t\t",
+                "name": "Holborn Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Holborn Station, London Underground Ltd., Kingsway, London, WC2B 6AA"
@@ -1729,7 +1729,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHolland Park Station\n\t\t\t",
+                "name": "Holland Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Holland Park Station, London Underground Ltd., Holland Park Avenue, London, W11 3RB"
@@ -1746,7 +1746,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHolloway Road Station\n\t\t\t",
+                "name": "Holloway Road Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Holloway Road Station, London Underground Ltd., Holloway Rd, London, N7 8HS"
@@ -1763,7 +1763,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHornchurch Station\n\t\t\t",
+                "name": "Hornchurch Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Hornchurch Station, London Underground Ltd., Station Lane, Hornchurch, Essex, RM12 6LS"
@@ -1780,7 +1780,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHounslow Central Station\n\t\t\t",
+                "name": "Hounslow Central Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Hounslow Central Station, London Underground Ltd., Lampton Rd, Hounslow, Middx, TW3 1JG"
@@ -1797,7 +1797,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHounslow East Station\n\t\t\t",
+                "name": "Hounslow East Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Hounslow East Station, London Underground Ltd., Kingsley Rd, Hounslow, Middx, TW3 4AB"
@@ -1814,7 +1814,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHounslow West Station\n\t\t\t",
+                "name": "Hounslow West Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Hounslow West Station, London Underground Ltd., Bath Rd, Hounslow, Middx, TW3 3DH"
@@ -1831,7 +1831,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHyde Park Corner Station\n\t\t\t",
+                "name": "Hyde Park Corner Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Hyde Park Corner Station, London Underground Ltd., Knightsbridge, London, SW1X 7LY"
@@ -1848,7 +1848,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tIckenham Station\n\t\t\t",
+                "name": "Ickenham Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Ickenham Station, London Underground Ltd., Glebe Avenue, Uxbridge, Middx, UB10 8PD"
@@ -1865,7 +1865,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tKennington Station\n\t\t\t",
+                "name": "Kennington Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Kennington Station, London Underground Ltd., Kennington Park Rd, London, SE11 4QJ"
@@ -1882,7 +1882,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tKentish Town Station\n\t\t\t",
+                "name": "Kentish Town Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Kentish Town Underground Station, London Underground Ltd., Kentish Town Rd, London, NW5 2AA"
@@ -1899,7 +1899,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tKilburn Station\n\t\t\t",
+                "name": "Kilburn Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Kilburn Station, London Underground Ltd., Shootup Hill, London, NW6 7QL"
@@ -1916,7 +1916,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tKilburn Park Station\n\t\t\t",
+                "name": "Kilburn Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Kilburn Park Station, London Underground Ltd., Cambridge Avenue, London, NW6 5AD"
@@ -1933,7 +1933,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tKingsbury Station\n\t\t\t",
+                "name": "Kingsbury Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Kingsbury Station, London Underground Ltd., Kingsbury Rd, London, NW9 9EG"
@@ -1950,7 +1950,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tKnightsbridge Station\n\t\t\t",
+                "name": "Knightsbridge Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Knightsbridge Station, London Underground Ltd., Sloane St, London, SW1"
@@ -1967,7 +1967,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tLadbroke Grove Station\n\t\t\t",
+                "name": "Ladbroke Grove Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Ladbroke Grove Station, London Underground Ltd., Ladbroke Grove, London, W10 6HJ"
@@ -1984,7 +1984,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tLambeth North Station\n\t\t\t",
+                "name": "Lambeth North Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Lambeth North Station, London Underground Ltd., 110 Westminster Bridge Rd, London, SE1 7XG"
@@ -2001,7 +2001,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tLancaster Gate Station\n\t\t\t",
+                "name": "Lancaster Gate Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Lancaster Gate Station, London Underground Ltd., Bayswater Rd, London, W2"
@@ -2018,7 +2018,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tLatimer Road Station\n\t\t\t",
+                "name": "Latimer Road Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Latimer Road Station, London Underground Ltd., Bramley Rd, London, W10 6SZ"
@@ -2035,7 +2035,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tLeicester Square Station\n\t\t\t",
+                "name": "Leicester Square Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Leicester Square Station, London Underground Ltd., Cranbourn St, London, WC2H 0AP"
@@ -2052,7 +2052,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tLeyton Station\n\t\t\t",
+                "name": "Leyton Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Leyton Underground Station, London Underground Ltd., High Rd, Leyton, London, E10 5PS"
@@ -2069,7 +2069,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tLeytonstone Station\n\t\t\t",
+                "name": "Leytonstone Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Leytonstone Station, London Underground Ltd., Church Lane, London, E11 1HE"
@@ -2086,7 +2086,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tLiverpool Street Station\n\t\t\t",
+                "name": "Liverpool Street Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Liverpool Street Underground Station Central, London Underground Ltd., Liverpool Street, London, EC2M 7PP"
@@ -2103,7 +2103,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tLondon Bridge Station\n\t\t\t",
+                "name": "London Bridge Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "London Bridge Underground Station, London Underground Ltd., 21 Duke St Hill, London, SE1 2SW"
@@ -2120,7 +2120,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tLoughton Station\n\t\t\t",
+                "name": "Loughton Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Loughton Station, London Underground Ltd., Old Station Rd, Roding Rd, Loughton, Essex, IG10 4PD"
@@ -2137,7 +2137,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tMaida Vale Station\n\t\t\t",
+                "name": "Maida Vale Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Maida Vale Station, London Underground Ltd., Elgin Avenue, London, W9 1JS"
@@ -2154,7 +2154,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tManor House Station\n\t\t\t",
+                "name": "Manor House Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Manor House Station, London Underground Ltd., Green Lanes, London, N4 1BZ"
@@ -2171,7 +2171,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tMansion House Station\n\t\t\t",
+                "name": "Mansion House Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Mansion House Station, London Underground Ltd., 38 Cannon St, London, EC4N 6JD"
@@ -2188,7 +2188,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tMarble Arch Station\n\t\t\t",
+                "name": "Marble Arch Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Marble Arch Station, London Underground Ltd., Oxford St, London, W1R 1DD"
@@ -2205,7 +2205,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tMarylebone Station\n\t\t\t",
+                "name": "Marylebone Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Marylebone Underground Station, London Underground Ltd., Harewood Row, London, NW1 6JP"
@@ -2222,7 +2222,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tMile End Station\n\t\t\t",
+                "name": "Mile End Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Mile End Station, London Underground Ltd., Mile End Rd, London, E3 4DH"
@@ -2239,7 +2239,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tMill Hill East Station\n\t\t\t",
+                "name": "Mill Hill East Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Mill Hill East Station, London Underground Ltd., Bittacy Hill, London, NW7 1BS"
@@ -2256,7 +2256,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tMonument Station\n\t\t\t",
+                "name": "Monument Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Monument Station, London Underground Ltd., King William St, London, EC4R 9AA"
@@ -2273,7 +2273,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tMoor Park Station\n\t\t\t",
+                "name": "Moor Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Moor Park Station, London Underground Ltd., Sandy Lodge Lane, Rickmansworth, Herts, HA6 2JQ."
@@ -2290,7 +2290,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tMoorgate Station\n\t\t\t",
+                "name": "Moorgate Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Moorgate Station, London Underground Ltd., Moorfields, London, EC2Y 9AE"
@@ -2307,7 +2307,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tMorden Station\n\t\t\t",
+                "name": "Morden Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Morden Underground Station, London Underground Ltd., London Rd, Morden, Surrey, SM4 5AZ"
@@ -2324,7 +2324,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tMornington Crescent Station\n\t\t\t",
+                "name": "Mornington Crescent Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Mornington Crescent Station, London Underground Ltd., Eversholt St, London, NW1 2JA"
@@ -2341,7 +2341,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tNeasden Station\n\t\t\t",
+                "name": "Neasden Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Neasden Station, London Underground Ltd., Neasden Lane, London, NW10 1PH"
@@ -2358,7 +2358,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tNewbury Park Station\n\t\t\t",
+                "name": "Newbury Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Newbury Park Station, London Underground Ltd., Eastern Avenue, Ilford, Essex, IG2 7RN"
@@ -2375,7 +2375,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tNorth Acton Station\n\t\t\t",
+                "name": "North Acton Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "North Acton Station, London Underground Ltd., Victoria Rd, London, W3 6UP"
@@ -2392,7 +2392,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tNorth Ealing Station\n\t\t\t",
+                "name": "North Ealing Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "North Ealing Station, London Underground Ltd., Station Road, London, W5 3AF"
@@ -2409,7 +2409,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tNorth Greenwich Station\n\t\t\t",
+                "name": "North Greenwich Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "North Greenwich Station, London Underground Ltd., 5 Millenium Way, London, SE10 0PH"
@@ -2426,7 +2426,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tNorth Harrow Station\n\t\t\t",
+                "name": "North Harrow Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "North Harrow Station, London Underground Ltd., Station Rd, North Harrow, Middx, HA2 7SR"
@@ -2443,7 +2443,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tNorthfields Station\n\t\t\t",
+                "name": "Northfields Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Northfields Station, London Underground Ltd., Northfield Avenue, London, W13 9QU"
@@ -2460,7 +2460,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tNortholt Station\n\t\t\t",
+                "name": "Northolt Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Northolt Underground Station, London Underground Ltd., Mandeville Rd, Northolt, Middx, UB5 4AA"
@@ -2477,7 +2477,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tNorthwick Park Station\n\t\t\t",
+                "name": "Northwick Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Northwick Park Station, London Underground Ltd., Northwick Avenue, Harrow, Middx, HA3 0AT"
@@ -2494,7 +2494,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tNorthwood Station\n\t\t\t",
+                "name": "Northwood Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Northwood Station, London Underground Ltd., Station Approach, Green Lane, Northwood, Middx, HA6 2XL"
@@ -2511,7 +2511,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tNorthwood Hills Station\n\t\t\t",
+                "name": "Northwood Hills Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Northwood Hills Station, London Underground Ltd., Joel St, Northwood, Middx, HA6 1NZ"
@@ -2528,7 +2528,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tNotting Hill Gate Station\n\t\t\t",
+                "name": "Notting Hill Gate Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Notting Hill Gate Station, London Underground Ltd., Notting Hill Gate, London, W11 3HT"
@@ -2545,7 +2545,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tOakwood Station\n\t\t\t",
+                "name": "Oakwood Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Oakwood Station, London Underground Ltd., Bramley Rd, London, N14 4UT"
@@ -2562,7 +2562,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tOld Street Station\n\t\t\t",
+                "name": "Old Street Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Old Street Station, London Underground Ltd., Old St, London, EC1V 9NR"
@@ -2579,7 +2579,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tOsterley Station\n\t\t\t",
+                "name": "Osterley Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Osterley Station, London Underground Ltd., Great West Rd, Isleworth, Middx, TW7 4PU"
@@ -2596,7 +2596,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tOval Station\n\t\t\t",
+                "name": "Oval Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Oval Station, London Underground Ltd., 318 Kennington Park Rd, London, SE11 4PP"
@@ -2613,7 +2613,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tOxford Circus Station\n\t\t\t",
+                "name": "Oxford Circus Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Oxford Circus Station, London Underground Ltd., Oxford St, London, W1R 1AB"
@@ -2630,7 +2630,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tPaddington Station\n\t\t\t",
+                "name": "Paddington Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Paddington Underground Stations, London Underground Ltd., Praed St, London, W2"
@@ -2647,7 +2647,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tPark Royal Station\n\t\t\t",
+                "name": "Park Royal Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Park Royal Station, London Underground Ltd., Western Avenue, London, W5 3EL"
@@ -2664,7 +2664,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tParsons Green Station\n\t\t\t",
+                "name": "Parsons Green Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Parsons Green Station, London Underground Ltd., Parsons Green Lane, London, SW6 4HJ"
@@ -2681,7 +2681,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tPerivale Station\n\t\t\t",
+                "name": "Perivale Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Perivale Station, London Underground Ltd., Horsenden Lane, Greenford, Middx"
@@ -2698,7 +2698,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tPiccadilly Circus Station\n\t\t\t",
+                "name": "Piccadilly Circus Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Piccadilly Circus Station, London Underground Ltd., Piccadilly Circus, London, W1V 9LB"
@@ -2715,7 +2715,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tPimlico Station\n\t\t\t",
+                "name": "Pimlico Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Pimlico Station, London Underground Ltd., Bessborough St, London, SW1V 2JA"
@@ -2732,7 +2732,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tPinner Station\n\t\t\t",
+                "name": "Pinner Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Pinner Station, London Underground Ltd., Station Approach, Pinner, Middx, HA5 5LZ"
@@ -2749,7 +2749,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tPlaistow Station\n\t\t\t",
+                "name": "Plaistow Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Plaistow Station, London Underground Ltd., Plaistow Rd, London, E15"
@@ -2766,7 +2766,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tPreston Road Station\n\t\t\t",
+                "name": "Preston Road Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Preston Road Station, London Underground Ltd., Preston Rd, Wembley, Middx, HA3 0PS"
@@ -2783,7 +2783,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tPutney Bridge Station\n\t\t\t",
+                "name": "Putney Bridge Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Putney Bridge Station, London Underground Ltd., Station Approach, London, SW6 3UH"
@@ -2800,7 +2800,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tQueensbury Station\n\t\t\t",
+                "name": "Queensbury Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Queensbury Station, London Underground Ltd., Cumberland Rd, Harrow, Middx, HA8 5NP"
@@ -2817,7 +2817,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tQueensway Station\n\t\t\t",
+                "name": "Queensway Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Queensway Station, London Underground Ltd., Bayswater Rd, London, W2 4SS"
@@ -2834,7 +2834,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tRavenscourt Park Station\n\t\t\t",
+                "name": "Ravenscourt Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Ravenscourt Park Station, London Underground Ltd., Ravenscourt Rd, London, W6 0UG"
@@ -2851,7 +2851,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tRayners Lane Station\n\t\t\t",
+                "name": "Rayners Lane Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Rayners Lane Station, London Underground Ltd., Alexandra Avenue, Harrow, Middx"
@@ -2868,7 +2868,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tRedbridge Station\n\t\t\t",
+                "name": "Redbridge Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Redbridge Station, London Underground Ltd., Eastern Avenue, Ilford, Essex, IG4 5OQ"
@@ -2885,7 +2885,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tRegent's Park Station\n\t\t\t",
+                "name": "Regent's Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Regent's Park Station, London Underground Ltd., Marylebone Rd, London, NW1 5HA"
@@ -2902,7 +2902,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tRickmansworth Station\n\t\t\t",
+                "name": "Rickmansworth Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Rickmansworth Station, London Underground Ltd., Station Approach, Rickmansworth, Herts, WD3 1QY"
@@ -2919,7 +2919,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tRoding Valley Station\n\t\t\t",
+                "name": "Roding Valley Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Roding Valley Station, London Underground Ltd., Station Way, Buckhurst Hill, Essex, IG9 6LN"
@@ -2936,7 +2936,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tRotherhithe Station\n\t\t\t",
+                "name": "Rotherhithe Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Rotherhithe Station, London Underground Ltd., Brunel Rd, London, SE16 4LF"
@@ -2953,7 +2953,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tRoyal Oak Station\n\t\t\t",
+                "name": "Royal Oak Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Royal Oak Station, London Underground Ltd., Lord Hills Bridge, London, W2 6ET"
@@ -2970,7 +2970,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tRuislip Station\n\t\t\t",
+                "name": "Ruislip Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Ruislip Station, London Underground Ltd., Station Approach, Ruislip, Middx, HA4 8LD"
@@ -2987,7 +2987,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tRuislip Gardens Station\n\t\t\t",
+                "name": "Ruislip Gardens Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Ruislip Gardens Station, London Underground Ltd., West End Rd, Ruislip, Middx, HA4 6NF"
@@ -3004,7 +3004,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tRuislip Manor Station\n\t\t\t",
+                "name": "Ruislip Manor Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Ruislip Manor Station, London Underground Ltd., Victoria Rd, Ruislip, Middx, HA4 9AA"
@@ -3021,7 +3021,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tRussell Square Station\n\t\t\t",
+                "name": "Russell Square Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Russell Square Station, London Underground Ltd., Bernard St, London, WC1N 1LG"
@@ -3038,7 +3038,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSeven Sisters Station\n\t\t\t",
+                "name": "Seven Sisters Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Seven Sisters Underground Station, London Underground Ltd., Seven Sisters Rd, London"
@@ -3055,7 +3055,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tShadwell Station\n\t\t\t",
+                "name": "Shadwell Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Shadwell Station, London Underground Ltd., Cable St, London, E1 2QE"
@@ -3072,7 +3072,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSloane Square Station\n\t\t\t",
+                "name": "Sloane Square Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Sloane Square Station, London Underground Ltd., Sloane Square, London, SW1W 8BB"
@@ -3089,7 +3089,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSnaresbrook Station\n\t\t\t",
+                "name": "Snaresbrook Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Snaresbrook Station, London Underground Ltd., Station Approach, London, E11 1QE"
@@ -3106,7 +3106,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSouth Ealing Station\n\t\t\t",
+                "name": "South Ealing Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "South Ealing Station, London Underground Ltd., South Ealing Rd, London, W5 4QB"
@@ -3123,7 +3123,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSouth Harrow Station\n\t\t\t",
+                "name": "South Harrow Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "South Harrow Station, London Underground Ltd., South Hill Ave, Harrow, Middx, HA2 8HN"
@@ -3140,7 +3140,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSouth Kensington Station\n\t\t\t",
+                "name": "South Kensington Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "South Kensington Station, London Underground Ltd., Pelham St, London, SW7 2NB"
@@ -3157,7 +3157,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSouth Ruislip Station\n\t\t\t",
+                "name": "South Ruislip Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "South Ruislip Station, London Underground Ltd., Station Approach, Ruislip, Middx, HA4 6DP"
@@ -3174,7 +3174,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSouth Wimbledon Station\n\t\t\t",
+                "name": "South Wimbledon Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "South Wimbledon Station, London Underground Ltd., High St, London, SW19 1DE"
@@ -3191,7 +3191,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSouth Woodford Station\n\t\t\t",
+                "name": "South Woodford Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "South Woodford Station, London Underground Ltd., George Lane, London, E18 1JJ"
@@ -3208,7 +3208,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSouthfields Station\n\t\t\t",
+                "name": "Southfields Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Southfields Station, Wimbledon Park Rd, London, SW18"
@@ -3225,7 +3225,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSouthgate Station\n\t\t\t",
+                "name": "Southgate Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Southgate Station, London Underground Ltd., High St, London, N14"
@@ -3242,7 +3242,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSouthwark Station\n\t\t\t",
+                "name": "Southwark Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Southwark Station, London Underground Ltd., 68 - 70 Blackfriars Rd, London, SE1 8NW"
@@ -3259,7 +3259,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tStamford Brook Station\n\t\t\t",
+                "name": "Stamford Brook Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Stamford Brook Station, London Underground Ltd., Goldhawk Rd, London, W6"
@@ -3276,7 +3276,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tStanmore Station\n\t\t\t",
+                "name": "Stanmore Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Stanmore Station, London Underground Ltd., London Rd, Stanmore, Middx, HA7 4PD"
@@ -3293,7 +3293,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tStepney Green Station\n\t\t\t",
+                "name": "Stepney Green Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Stepney Green Station, London Underground Ltd., Mile End Rd, London, E1 4AQ"
@@ -3310,7 +3310,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tStockwell Station\n\t\t\t",
+                "name": "Stockwell Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Stockwell Station, London Underground Ltd., Clapham Rd, London, SW9 9AE"
@@ -3327,7 +3327,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tStratford Station\n\t\t\t",
+                "name": "Stratford Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Stratford Station BR Station St, London, E15 1DE"
@@ -3344,7 +3344,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSudbury Hill Station\n\t\t\t",
+                "name": "Sudbury Hill Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Sudbury Hill Underground Station, London Underground Ltd., Greenford Rd, Harrow, Middx, HA1 3RA"
@@ -3361,7 +3361,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSudbury Town Station\n\t\t\t",
+                "name": "Sudbury Town Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Sudbury Town Station, London Underground Ltd., Station Approach, Wembley, Middx, HA0 2LA"
@@ -3378,7 +3378,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSurrey Quays Station\n\t\t\t",
+                "name": "Surrey Quays Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Surrey Quays Station, London Underground Ltd., Lower Rd, London, SE16 2UF"
@@ -3395,7 +3395,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSwiss Cottage Station\n\t\t\t",
+                "name": "Swiss Cottage Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Swiss Cottage Station, London Underground Ltd., Finchley Rd, London, NW3 6HY"
@@ -3412,7 +3412,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tTemple Station\n\t\t\t",
+                "name": "Temple Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Temple Station, London Underground Ltd., Victoria Embankment, London, WC2R 2PH"
@@ -3429,7 +3429,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tTheydon Bois Station\n\t\t\t",
+                "name": "Theydon Bois Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Theydon Bois Station, London Underground Ltd., Coppice Row, Theydon Bois, Essex, CM16 7EU"
@@ -3446,7 +3446,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tTooting Bec Station\n\t\t\t",
+                "name": "Tooting Bec Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Tooting Bec Station, London Underground Ltd., Balham High Rd, London, SW17 9AH"
@@ -3463,7 +3463,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tTooting Broadway Station\n\t\t\t",
+                "name": "Tooting Broadway Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Tooting Broadway Station, London Underground Ltd., Tooting High St, London, SW17 0SU"
@@ -3480,7 +3480,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tTottenham Court Road Station\n\t\t\t",
+                "name": "Tottenham Court Road Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Tottenham Court Road Station, London Underground Ltd., Oxford St, London, W1"
@@ -3497,7 +3497,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tTottenham Hale Station\n\t\t\t",
+                "name": "Tottenham Hale Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Tottenham Hale Underground Station, London Underground Ltd., Station Rd, London, N17 9LR"
@@ -3514,7 +3514,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tTotteridge & Whetstone Station\n\t\t\t",
+                "name": "Totteridge & Whetstone Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Totteridge & Whetstone Station, London Underground Ltd., Totteridge Lane, London, N20 9QP"
@@ -3531,7 +3531,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tTower Hill Station\n\t\t\t",
+                "name": "Tower Hill Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Tower Hill Station, London Underground Ltd., Trinity Square, London, EC3N 4DJ"
@@ -3548,7 +3548,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tTufnell Park Station\n\t\t\t",
+                "name": "Tufnell Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Tufnell Park Station, London Underground Ltd., Fortress Rd, London, N19 5QB"
@@ -3565,7 +3565,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tTurnham Green Station\n\t\t\t",
+                "name": "Turnham Green Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Turnham Green Station, London Underground Ltd., Turnham Green Terrace, London, W4 1LR"
@@ -3582,7 +3582,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tTurnpike Lane Station\n\t\t\t",
+                "name": "Turnpike Lane Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Turnpike Lane Station, London Underground Ltd., Westbury Avenue, London, N15 3NX"
@@ -3599,7 +3599,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tUpminster Station\n\t\t\t",
+                "name": "Upminster Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Upminster Station BR Station Rd, Upminster, Essex, RM14 2TD"
@@ -3616,7 +3616,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tUpminster Bridge Station\n\t\t\t",
+                "name": "Upminster Bridge Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Upminster Bridge Station, London Underground Ltd., Upminster Rd, Hornchurch, Essex, RM12 6PL"
@@ -3633,7 +3633,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tUpney Station\n\t\t\t",
+                "name": "Upney Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Upney Station, London Underground Ltd., Upney Lane, Barking, Essex, IG11 9LS"
@@ -3650,7 +3650,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tUpton Park Station\n\t\t\t",
+                "name": "Upton Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Upton Park Station, London Underground Ltd., Green St, London, E13 9AP"
@@ -3667,7 +3667,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tUxbridge Station\n\t\t\t",
+                "name": "Uxbridge Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Uxbridge Station, London Underground Ltd., High St, Uxbridge, Middx, UB8 1JZ"
@@ -3684,7 +3684,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tVauxhall Station\n\t\t\t",
+                "name": "Vauxhall Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Vauxhall Underground Station, London Underground Ltd., Vauxhall Cross, London, SE1"
@@ -3701,7 +3701,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tVictoria Station\n\t\t\t",
+                "name": "Victoria Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Victoria Underground Station, London Underground Ltd., Victoria St, London, SW1E 5ND"
@@ -3718,7 +3718,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWalthamstow Central Station\n\t\t\t",
+                "name": "Walthamstow Central Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Walthamstow Central Station BR Hoe St, London, E17 7LP"
@@ -3735,7 +3735,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWanstead Station\n\t\t\t",
+                "name": "Wanstead Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Wanstead Underground Station, London Underground Ltd., The Green, London, E11 2NT"
@@ -3752,7 +3752,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWapping Station\n\t\t\t",
+                "name": "Wapping Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Wapping Station, London Underground Ltd., Wapping High St, London, E1 9NQ"
@@ -3769,7 +3769,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWarren Street Station\n\t\t\t",
+                "name": "Warren Street Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Warren Street Station, London Underground Ltd., Tottenham Court Rd, London, NW1 3AA"
@@ -3786,7 +3786,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWarwick Avenue Station\n\t\t\t",
+                "name": "Warwick Avenue Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Warwick Avenue Station, London Underground Ltd., Warwick Avenue, London, W9 2PT"
@@ -3803,7 +3803,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWaterloo Station\n\t\t\t",
+                "name": "Waterloo Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Waterloo Underground Station, London Underground Ltd., York Rd, London, SE1 7ND"
@@ -3820,7 +3820,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWatford Station\n\t\t\t",
+                "name": "Watford Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Watford Station, London Underground Ltd., Cassiobury Park Avenue, Watford, Herts, WD1 7LE"
@@ -3837,7 +3837,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWembley Park Station\n\t\t\t",
+                "name": "Wembley Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Wembley Park Station, London Underground Ltd., Bridge Road, Wembley, Middlesex, HA9 9AA"
@@ -3854,7 +3854,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWest Acton Station\n\t\t\t",
+                "name": "West Acton Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "West Acton Station, London Underground Ltd., Station Parade, London, W3 6UP"
@@ -3871,7 +3871,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWest Brompton Station\n\t\t\t",
+                "name": "West Brompton Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "West Brompton Station, London Underground Ltd., Old Brompton Rd, London, SW5 9JX"
@@ -3888,7 +3888,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWest Finchley Station\n\t\t\t",
+                "name": "West Finchley Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "West Finchley Station, London Underground Ltd., Nether Street, London, N3 1NT"
@@ -3905,7 +3905,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWest Ham Station\n\t\t\t",
+                "name": "West Ham Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "West Ham Underground Station, London Underground Ltd., Manor Rd, London, E15 3BN"
@@ -3922,7 +3922,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWest Hampstead Station\n\t\t\t",
+                "name": "West Hampstead Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "West Hampstead Underground Station, London Underground Ltd., West End Lane, London, NW6 2LX"
@@ -3939,7 +3939,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWest Harrow Station\n\t\t\t",
+                "name": "West Harrow Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "West Harrow Station, London Underground Ltd., Vaughan Rd, Harrow, Middx, HA1 4HE"
@@ -3956,7 +3956,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWest Kensington Station\n\t\t\t",
+                "name": "West Kensington Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "West Kensington Station, London Underground Ltd., North End Rd, London, W14 9NL"
@@ -3973,7 +3973,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWest Ruislip Station\n\t\t\t",
+                "name": "West Ruislip Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "West Ruislip Station, London Underground Ltd., Ickenham Rd, West Ruislip, Middlesex"
@@ -3990,7 +3990,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWestbourne Park Station\n\t\t\t",
+                "name": "Westbourne Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Westbourne Park Station, London Underground Ltd., Western Rd, London, W11 1AB"
@@ -4007,7 +4007,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWestminster Station\n\t\t\t",
+                "name": "Westminster Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Westminster Station, London Underground Ltd., Bridge St, London, SW1A 2JR"
@@ -4024,7 +4024,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWhite City Station\n\t\t\t",
+                "name": "White City Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "White City Station, London Underground Ltd., Wood Lane, London, W12 7RH"
@@ -4041,7 +4041,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWhitechapel Station\n\t\t\t",
+                "name": "Whitechapel Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Whitechapel Station, London Underground Ltd., 277 Whitechapel Rd, London, E1 1BY"
@@ -4058,7 +4058,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWillesden Green Station\n\t\t\t",
+                "name": "Willesden Green Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Willesden Green Station, London Underground Ltd., Walm Lane, London, NW2 4QT"
@@ -4075,7 +4075,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWimbledon Park Station\n\t\t\t",
+                "name": "Wimbledon Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Wimbledon Park Station, Arthur Rd, London, SW19"
@@ -4092,7 +4092,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWood Green Station\n\t\t\t",
+                "name": "Wood Green Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Wood Green Station, London Underground Ltd., High Rd, Wood Green, London, N22 4HH"
@@ -4109,7 +4109,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWoodford Station\n\t\t\t",
+                "name": "Woodford Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Woodford Station, London Underground Ltd., Snakes Lane, Woodford Green, Essex"
@@ -4126,7 +4126,7 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWoodside Park Station\n\t\t\t",
+                "name": "Woodside Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
                 "description": "Woodside Park Station, London Underground Ltd., Woodside Park Rd, London, N12 8SE"
@@ -4143,10 +4143,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tAll Saints Station\n\t\t\t",
+                "name": "All Saints Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4160,10 +4160,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBeckton Station\n\t\t\t",
+                "name": "Beckton Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4177,10 +4177,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBeckton Park Station\n\t\t\t",
+                "name": "Beckton Park Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4194,10 +4194,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBlackwall Station\n\t\t\t",
+                "name": "Blackwall Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4211,10 +4211,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBow Church Station\n\t\t\t",
+                "name": "Bow Church Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4228,10 +4228,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tBromley-By-Bow Station\n\t\t\t",
+                "name": "Bromley-By-Bow Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4245,10 +4245,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tCrossharbour & London Arena Station\n\t\t\t",
+                "name": "Crossharbour & London Arena Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4262,10 +4262,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tCustom House Station\n\t\t\t",
+                "name": "Custom House Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4279,10 +4279,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tCutty Sark Station\n\t\t\t",
+                "name": "Cutty Sark Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4296,10 +4296,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tCyprus Station\n\t\t\t",
+                "name": "Cyprus Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4313,10 +4313,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tDeptford Bridge Station\n\t\t\t",
+                "name": "Deptford Bridge Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4330,10 +4330,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tDevons Road Station\n\t\t\t",
+                "name": "Devons Road Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4347,10 +4347,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tEast India Station\n\t\t\t",
+                "name": "East India Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4364,10 +4364,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tEdgware Road Bakerloo Station\n\t\t\t",
+                "name": "Edgware Road Bakerloo Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4381,10 +4381,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tEdgware Road Circle Station\n\t\t\t",
+                "name": "Edgware Road Circle Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4398,10 +4398,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tElverson Road Station\n\t\t\t",
+                "name": "Elverson Road Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4415,10 +4415,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tGallions Reach Station\n\t\t\t",
+                "name": "Gallions Reach Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4432,10 +4432,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tGreenwich Station\n\t\t\t",
+                "name": "Greenwich Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4449,10 +4449,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tGunnersbury Station\n\t\t\t",
+                "name": "Gunnersbury Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4466,10 +4466,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHammersmith Station\n\t\t\t",
+                "name": "Hammersmith Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4483,10 +4483,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHammersmith (D & P) Station\n\t\t\t",
+                "name": "Hammersmith (D & P) Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4500,10 +4500,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHarlesden Station\n\t\t\t",
+                "name": "Harlesden Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4517,10 +4517,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHarrow & Wealdstone Station\n\t\t\t",
+                "name": "Harrow & Wealdstone Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4534,10 +4534,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHarrow on the Hill Station\n\t\t\t",
+                "name": "Harrow on the Hill Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4551,10 +4551,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHeathrow Terminals 1, 2, 3 Station\n\t\t\t",
+                "name": "Heathrow Terminals 1, 2, 3 Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4568,10 +4568,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tHeron Quays Station\n\t\t\t",
+                "name": "Heron Quays Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4585,10 +4585,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tIsland Gardens Station\n\t\t\t",
+                "name": "Island Gardens Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4602,10 +4602,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tKensal Green Station\n\t\t\t",
+                "name": "Kensal Green Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4619,10 +4619,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tKensington (Olympia) Station\n\t\t\t",
+                "name": "Kensington (Olympia) Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4636,10 +4636,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tKenton Station\n\t\t\t",
+                "name": "Kenton Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4653,10 +4653,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tKew Gardens Station\n\t\t\t",
+                "name": "Kew Gardens Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4670,10 +4670,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tKing's Cross St. Pancras Station\n\t\t\t",
+                "name": "King's Cross St. Pancras Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4687,10 +4687,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tLewisham Station\n\t\t\t",
+                "name": "Lewisham Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4704,10 +4704,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tLimehouse Station\n\t\t\t",
+                "name": "Limehouse Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4721,10 +4721,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tMudchute Station\n\t\t\t",
+                "name": "Mudchute Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4738,10 +4738,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tNew Cross Station\n\t\t\t",
+                "name": "New Cross Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4755,10 +4755,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tNew Cross Gate Station\n\t\t\t",
+                "name": "New Cross Gate Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4772,10 +4772,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tNorth Wembley Station\n\t\t\t",
+                "name": "North Wembley Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4789,10 +4789,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tPoplar Station\n\t\t\t",
+                "name": "Poplar Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4806,10 +4806,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tPrince Regent Station\n\t\t\t",
+                "name": "Prince Regent Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4823,10 +4823,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tPudding Mill Lane Station\n\t\t\t",
+                "name": "Pudding Mill Lane Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4840,10 +4840,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tQueen's Park Station\n\t\t\t",
+                "name": "Queen's Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4857,10 +4857,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tRichmond Station\n\t\t\t",
+                "name": "Richmond Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4874,10 +4874,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tRoyal Albert Station\n\t\t\t",
+                "name": "Royal Albert Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4891,10 +4891,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tRoyal Victoria Station\n\t\t\t",
+                "name": "Royal Victoria Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4908,10 +4908,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tShepherd's Bush Central Station\n\t\t\t",
+                "name": "Shepherd's Bush Central Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4925,10 +4925,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tShepherd's Bush Hammersmith & City Station\n\t\t\t",
+                "name": "Shepherd's Bush Hammersmith & City Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4942,10 +4942,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSouth Kenton Station\n\t\t\t",
+                "name": "South Kenton Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4959,10 +4959,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSouth Quay Station\n\t\t\t",
+                "name": "South Quay Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4976,10 +4976,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSt. James's Park Station\n\t\t\t",
+                "name": "St. James's Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -4993,10 +4993,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSt. John's Wood Station\n\t\t\t",
+                "name": "St. John's Wood Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -5010,10 +5010,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tSt. Paul's Station\n\t\t\t",
+                "name": "St. Paul's Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -5027,10 +5027,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tStonebridge Park Station\n\t\t\t",
+                "name": "Stonebridge Park Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -5044,10 +5044,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tTower Gateway Station\n\t\t\t",
+                "name": "Tower Gateway Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -5061,10 +5061,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWembley Central Station\n\t\t\t",
+                "name": "Wembley Central Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -5078,10 +5078,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWest India Quay Station\n\t\t\t",
+                "name": "West India Quay Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -5095,10 +5095,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWestferry Station\n\t\t\t",
+                "name": "Westferry Station",
                 "styleUrl": "#dlrStyle",
                 "styleHash": "20ee5de1",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -5112,10 +5112,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWillesden Junction Station\n\t\t\t",
+                "name": "Willesden Junction Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         },
         {
@@ -5129,10 +5129,10 @@
                 ]
             },
             "properties": {
-                "name": "\n\t\t\t\tWimbledon Station\n\t\t\t",
+                "name": "Wimbledon Station",
                 "styleUrl": "#tubeStyle",
                 "styleHash": "-9b946a9",
-                "description": "\n\t\t\t\tLondon Underground, 55 Broadway, London, SW1H 0BD\n\t\t\t"
+                "description": "London Underground, 55 Broadway, London, SW1H 0BD"
             }
         }
     ]
