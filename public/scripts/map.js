@@ -11,7 +11,6 @@ var stationData = omnivore.kml('https://cors-anywhere.herokuapp.com/data.tfl.gov
   .on('ready', function(layer) {
     this.eachLayer(function (marker) {
       if (marker.toGeoJSON().properties.styleUrl === '#dlrStyle') {
-        console.log(marker.toGeoJSON());
         marker.toGeoJSON().properties.image = 'https://www.tfl.gov.uk/cdn/static/cms/images/logos/dlr-partner.png';
         marker.setIcon(L.mapbox.marker.icon({
             'marker-color': '#009999'
