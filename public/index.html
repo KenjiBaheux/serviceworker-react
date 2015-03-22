@@ -16,6 +16,19 @@
     <div id="content2"></div>
     <script type="text/javascript" src="scripts/map.js"></script>
     <script type="text/jsx;harmony=true" src="scripts/disruptions.js"></script>
-    <script type="text/javascript" src="scripts/serviceworker/register.js"></script>
+    <script type="text/javascript">
+      var registration;
+
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('sw.js').then(function(registration) {
+          // Registration was successful
+          console.log('ServiceWorker registration successful with scope: ', registration.scope);
+        }).catch(function(err) {
+          // registration failed :(
+          console.log('ServiceWorker registration failed: ', err);
+        });
+      }
+    </script>
+    <script type="text/javascript" src="sw.js"></script>
   </body>
 </html>
