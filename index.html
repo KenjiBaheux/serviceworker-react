@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>London Underground Status</title>
+    <link rel="stylesheet" href="css/base.css" />
+    <meta name="viewport" content="initial-scale=1">
+    <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
+    <script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.css' rel='stylesheet' />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.13.0/react.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.13.0/JSXTransformer.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
+  </head>
+  <body>
+    <div id="map" class="dark loading-background">
+      <div class="loading" id="loading">
+        <div class="finger finger-1">
+          <div class="finger-item">
+            <span></span><i></i>
+          </div>
+        </div>
+        <div class="finger finger-2">
+          <div class="finger-item">
+            <span></span><i></i>
+          </div>
+        </div>
+        <div class="finger finger-3">
+          <div class="finger-item">
+            <span></span><i></i>
+          </div>
+        </div>
+      <div class="finger finger-4">
+        <div class="finger-item">
+          <span></span><i></i>
+        </div>
+      </div>
+        <div class="last-finger">
+          <div class="last-finger-item"><i></i></div>
+        </div>
+      </div>
+    </div>
+    <div id="lineDisruptions"></div>
+    <div id="stationDisruptions"></div>
+    <script type="text/javascript" src="scripts/map.js"></script>
+    <script type="text/jsx;harmony=true" src="scripts/disruptions.js"></script>
+    <script type="text/javascript">
+      var registration;
+
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('sw.js').then(function(registration) {
+          // Registration was successful
+          console.log('ServiceWorker registration successful with scope: ', registration.scope);
+        }).catch(function(err) {
+          // registration failed :(
+          console.log('ServiceWorker registration failed: ', err);
+        });
+      }
+    </script>
+    <script type="text/javascript" src="sw.js"></script>
+  </body>
+</html>
